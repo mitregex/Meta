@@ -39,15 +39,8 @@ GEM
       sass (~> 3.4)
     jekyll-seo-tag (2.6.1)
       jekyll (>= 3.3, < 5.0)
-    jekyll-theme-hacker (0.1.1)
-      jekyll (~> 3.5)
-      jekyll-seo-tag (~> 2.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    just-the-docs (0.2.6)
-      jekyll (~> 3.8.5)
-      jekyll-seo-tag (~> 2.0)
-      rake (~> 12.3.1)
     kramdown (1.17.0)
     liquid (4.0.3)
     listen (3.1.5)
@@ -68,7 +61,6 @@ GEM
       rack
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
-    rake (12.3.3)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
@@ -106,8 +98,6 @@ DEPENDENCIES
   jekyll
   jekyll-admin
   jekyll-feed (~> 0.12)
-  jekyll-theme-hacker
-  just-the-docs
   minima (~> 2.5)
   tzinfo (~> 1.2)
   tzinfo-data
